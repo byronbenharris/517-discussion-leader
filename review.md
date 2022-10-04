@@ -2,28 +2,28 @@
 
 ## Info
 
-Reviewer Name:
-Paper Title: 
+Reviewer Name: Ben Harris (bbh3)
+Paper Title: Container-based OS Virtualization
 
 ## Summary
 
-### Problem and why we care
+### Problem and Why We Care
 
-### Gap in current approaches
+### Gap in Current Approaches
 
 ### Hypothesis, Key Idea, or Main Claim
 
 ### Method for Proving the Claim
 
-### Method for evaluating
+### Method for Evaluating
 
-### Contributions: what we take away
+### Contributions: What We Take Away
 
 ## Pros (3-6 bullets)
 
 ## Cons (3-6 bullets)
 
-### What is your analysis of the proposed?
+### What is Your Analysis of the Proposed?
 
 Summarize and justify what your evluation of the paper is. 
 

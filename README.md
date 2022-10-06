@@ -45,11 +45,12 @@ and lead an initial 15 minute small group and a larger 15
 minute discussion.
 
 - Do you think the problem and criteria for performance were properly defined?
-- Split the class in half. Each think of three systems where Xen is better and three where Server is better respectively.  Now argue against one of the other teams scenarios.
+- What did you think the level of isolation for VServer? Should each VM include more features or less?
 - Why did Xen perform so horribly in I/O. Did this have to do with hypervisors in general or Xen’s specific implementation?
 - Did this paper commit any benchmarking crimes?
 - What areas of improvement do you see for the containerization approach?
 - Is containerization only useful for OS virtualization or are there any adjacent areas where this paper could have an impact?
+- Split the class in half. Each think of three systems where Xen is better and three where Server is better respectively.  Now argue against one of the other teams scenarios.
 
 ## Discussion Debrief (25%)
 

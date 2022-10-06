@@ -38,8 +38,6 @@ The following slides are expected:
 
 The presentation should take between 5-12 minutes.
 
-**Presentation: https://docs.google.com/presentation/d/1rqkd_GjiU5JAsozomKO6H0U8f70Wo0y9neEbNwB6nYg/edit?usp=sharing**
-
 ## Discussion Leading (25%)
 
 Develop 5-7 questions after reviewing the online discussion
@@ -75,3 +73,8 @@ In general we decided that hypervisors were better for vulnerable apps, multiker
 
 - Where the Xen I/O deficiencies due to the benchmarking techniques, the specifics of Xen's implementation, or general hypervisor design?
 - Hypervisors can run different kernels easily, but can they also virtualize different architectures (ie. simulate ARM on an x86 hardware and vice versa)?
+
+## Resources
+
+- Slides: https://docs.google.com/presentation/d/1rqkd_GjiU5JAsozomKO6H0U8f70Wo0y9neEbNwB6nYg/edit?usp=sharing
+- Video: https://drive.google.com/file/d/1x6SygNqsa0myctsj1vnYLxgbmjumVCOU/view?usp=sharing

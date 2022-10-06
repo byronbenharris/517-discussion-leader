@@ -22,7 +22,7 @@ By sharing a kernel instance, theoretically container-based OS virtualization co
 
 ### Method for Proving the Claim
 
- to compare two well known systems (Xen vs VServer).
+The authors examined a popular hypervisor (Xen) and popular COS system (VServer).
 
 ### Method for Evaluating
 
@@ -34,11 +34,13 @@ In most instances, the COS outperformed the VMM significant margins (especially 
 
 ## Pros (3-6 bullets)
 
-- 
+- COS had much less overhead
+- COS was significantly better at scalability testing
 
 ## Cons (3-6 bullets)
 
-- 
+- COS doesn't have multikernel
+- COS lacks fault isolation
 
 ### What is Your Analysis of the Proposed?
 

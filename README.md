@@ -38,13 +38,20 @@ The following slides are expected:
 
 The presentation should take between 5-12 minutes.
 
-## Discussion Leading (%25)
+## Discussion Leading (25%)
 
 Develop 5-7 questions after reviewing the online discussion
 and lead an initial 15 minute small group and a larger 15
 minute discussion.
 
-## Discussion Debrief (%25)
+- Do you think the problem and criteria for performance were properly defined?
+- Split the class in half. Each think of three systems where Xen is better and three where Server is better respectively.  Now argue against one of the other teams scenarios.
+- Why did Xen perform so horribly in I/O. Did this have to do with hypervisors in general or Xen’s specific implementation?
+- Did this paper commit any benchmarking crimes?
+- What areas of improvement do you see for the containerization approach?
+- Is containerization only useful for OS virtualization or are there any adjacent areas where this paper could have an impact?
+
+## Discussion Debrief (25%)
 
 Answer the following questions: 
 
